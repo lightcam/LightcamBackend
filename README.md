@@ -1,4 +1,4 @@
-# <img src="src/assets/imgs/banner.png" width="800">
+# <img src="https://raw.githubusercontent.com/lightcam/LightcamFrontend/main/src/assets/imgs/banner.png" width="800">
 
 LightCam, Enlightening the camera obscura - where photogrammetry, computer vision and robotics meet, is a project funded by ISPRS Educational and Capacity Initiatives. Its aim is to ease the dialog among these three actors with two intermediation tools:
 1. a [knowledge base website](https://lightcam.fbk.eu/)
